@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrahim ARPACI
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in Information Systems, Educational Technology, and Cyberpsychology
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me iarpaci@bandirma.edu.tr
