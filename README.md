@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ibrahim ARPACI
+- 👋 Hi, I’m Ibrahim ARPACI (PhD)
 - 👀 I’m interested in Information Systems, Educational Technology, and Cyberpsychology
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI
